@@ -1,0 +1,13 @@
+{
+  "name": "inventra",
+  "version": "1.0.0",
+  "description": "Sistema web de gestión de inventarios (Vanilla JS, arquitectura preparada para React).",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -l 5173 .",
+    "test": "node tests/run-node.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
